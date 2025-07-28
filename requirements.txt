@@ -1,0 +1,5 @@
+PyMuPDF==1.26.3
+sentence-transformers==5.0.0
+sentencepiece 
+torch==2.7.1
+transformers==4.53.2
